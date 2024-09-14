@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Book 1",
+        "title": "This is book 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 2,
+        "name": "Book 2",
+        "title": "This is book 1",
+        "price": 10,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 3,
+        "name": "Book 3",
+        "title": "This is book 1",
+        "price": 110,
+        "category": "computer",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 4,
+        "name": "Book 4",
+        "title": "This is book 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 5,
+        "name": "Book 5",
+        "title": "This is book 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 6,
+        "name": "Book 6",
+        "title": "This is book 1",
+        "price": 500,
+        "category": "chinese",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 7,
+        "name": "Book 7",
+        "title": "This is book 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 8,
+        "name": "Book 8",
+        "title": "This is book 1",
+        "price": 90,
+        "category": "Japanese",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 9,
+        "name": "Book 9",
+        "title": "This is book 1",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    },
+    {
+        "id": 10,
+        "name": "Book 94",
+        "title": "This is book 1",
+        "price": 10000,
+        "category": "anime",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1725295419~exp=1725296019~hmac=b684e2ec0e522118450e3604c761172698cd348680edaa874adf88882e1284bd"
+    }
+]
